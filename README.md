@@ -3,7 +3,7 @@ crudApp is implemented using ejs templating ,express, mongoose
 
 Those who are new , can easily understand the code 
 
-uploading the sceenshots for your reference
+uploaded the sceenshots for your reference below 
 
 1.displaying the products:
 
